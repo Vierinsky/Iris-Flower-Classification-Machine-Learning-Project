@@ -83,7 +83,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 <table border="0">
   <tr>
     <td>
-      <img src="Assets/fvk_profile_pic.png" width="150">
+      <img src="images/fvk_profile_pic.png" width="150">
     </td>
     <td align="left">
       <b>Felipe Viera Klein</b><br>
