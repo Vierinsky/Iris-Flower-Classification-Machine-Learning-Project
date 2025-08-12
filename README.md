@@ -77,3 +77,19 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Acknowledgments
 - Tutorial: [DataFlair - Iris Flower Classification](https://data-flair.training/blogs/iris-flower-classification/)
 - Dataset: [UCI Machine Learning Repository - Iris](https://archive.ics.uci.edu/ml/datasets/iris)
+
+## About the Author
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="Assets/fvk_profile_pic.png" width="150">
+    </td>
+    <td align="left">
+      <b>Felipe Viera Klein</b><br>
+      Agricultural Engineer & Data Scientist<br>
+      <a href="https://www.linkedin.com/in/felipevk/">🔗 LinkedIn</a> |
+      <a href="https://github.com/Vierinsky">🐙 GitHub</a>
+    </td>
+  </tr>
+</table>
