@@ -25,11 +25,8 @@ The task is to **train a classification model** that predicts the species based 
    - Visualized distributions with Kernel Density Estimates (KDEs) and scatter plots.
    - Observed that petal measurements are better at separating species than sepal measurements.
 
-   **Example KDE Plot:**  
+   **Example KDE and Scatter Plots:**  
    ![KDE Plot](images/kde_plot.png)
-
-   **Example Pairplot:**  
-   ![Pairplot](images/pairplot.png)
 
 4. **Feature and Target Separation**  
    - Split the dataset into features (`X`) and target labels (`Y`).
